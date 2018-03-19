@@ -1,4 +1,5 @@
 package springJdbc.domain;
+/*
 sql:
 	create table account(
 		id int(8) primary key,
